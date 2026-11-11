@@ -1,0 +1,57 @@
+{
+ "diagRun": {
+  "available": true,
+  "reason": "",
+  "value": false
+ },
+ "docked": {
+  "available": true,
+  "reason": "",
+  "value": "docked"
+ },
+ "enhance": {
+  "available": true,
+  "reason": "",
+  "value": false
+ },
+ "fps60": {
+  "available": true,
+  "reason": "",
+  "value": true
+ },
+ "hud": {
+  "available": true,
+  "reason": "",
+  "value": false
+ },
+ "motion": {
+  "available": true,
+  "reason": "",
+  "value": true
+ },
+ "padFace": {
+  "available": true,
+  "reason": "",
+  "value": "letter"
+ },
+ "rumble": {
+  "available": true,
+  "reason": "",
+  "value": true
+ },
+ "rumbleLevel": {
+  "available": true,
+  "reason": "",
+  "value": "2"
+ },
+ "widenForce": {
+  "available": true,
+  "reason": "",
+  "value": false
+ },
+ "widescreen": {
+  "available": true,
+  "reason": "",
+  "value": true
+ }
+}
